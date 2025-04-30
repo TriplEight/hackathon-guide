@@ -1,5 +1,7 @@
 # 🌟 Polkadot Hackathon Survival Guide 🌟
 
+# test6
+
 ## 👋 Introduction
 
 Welcome to the **Polkadot Hackathon Survival Guide**! This resource is your go-to companion for navigating the world of **Polkadot development** during the hackathon.
@@ -17,6 +19,20 @@ The Polkadot ecosystem provides multiple development pathways:
 <img width="1109" alt="image" src="https://github.com/user-attachments/assets/5c5bf50a-1906-4f04-9478-0d3bcc70649b" />
 
 👉 For builders looking to deploy smart contract based applications to Polkadot, head straight to the [resource page for Polkadot Hub developers](./polkadot-hub-devs.md)
+
+test 0 [[polkadot-hub-devs.md]]
+[test 1](../polkadot-hub-devs.md)
+test 2 ./polkadot-hub-devs.md
+test 3 (./polkadot-hub-devs.md)
+[test 4](./polkadot-hub-devs.md#📚 Development Environments)
+[test 51](./polkadot-hub-devs.md#📚-Development-Environments)
+[test 52](./polkadot-hub-devs.md#Development-Environments)
+[test 6](#test6)
+[test 7](http://localhost:80)
+[test 8](http://127.0.0.1)
+[test 9](0.0.0.0)
+test 10 mailto:gmai9846584l@gmail.com
+test 11 (mailto:gmai9846584l@gmail.com)
 
 👉 For builders looking to create custom blockchains with the Polkadot SDK, check out the dedicated [resource for parachain developers](./polkadot-parachain-devs.md).
 
